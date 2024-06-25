@@ -1,6 +1,5 @@
 # ICU_Monitor
-#### System that monitors patient heart rate and delivers a drug through infusion to a
-patient.
+#### System that monitors patient heart rate and delivers a drug through infusion to a patient.
 
 ![project2](https://github.com/MayarFayez/ICU_Monitor/assets/93496610/fb1f3001-1737-4677-8802-29fddebc363c)
 ![project](https://github.com/MayarFayez/ICU_Monitor/assets/93496610/d870fc71-cead-4fcb-a0e9-766696c9bd45)
